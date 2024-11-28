@@ -1,6 +1,6 @@
 <a href="https://pypi.org/project/django-markup/"><img src="https://img.shields.io/pypi/v/django-markup.svg" alt=""/></a> <a href="https://github.com/bartTC/django-markup/actions"><img src="https://github.com/bartTC/django-markup/actions/workflows/push.yml/badge.svg?branch=main" alt=""/></a>
 
-📖 Full documentation on https://django-markup.readthedocs.io/en/latest/
+
 
 # django-markup
 
